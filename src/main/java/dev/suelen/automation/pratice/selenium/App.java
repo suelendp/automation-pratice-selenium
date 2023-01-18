@@ -1,4 +1,4 @@
-package org.example;
+package dev.suelen.automation.pratice.selenium;
 
 public class App {
     
